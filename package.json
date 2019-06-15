@@ -1,0 +1,19 @@
+{
+  "name": "yougojoe.github.io",
+  "version": "1.0.0",
+  "description": "Hosted Github site",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YouGoJoe/YouGoJoe.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YouGoJoe/YouGoJoe.github.io/issues"
+  },
+  "homepage": "https://yougojoe.github.io/index.html"
+}
