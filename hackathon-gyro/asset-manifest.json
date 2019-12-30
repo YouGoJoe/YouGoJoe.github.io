@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hackahon-gyro/static/css/main.d1b05096.chunk.css",
-    "main.js": "/hackahon-gyro/static/js/main.4d337ed4.chunk.js",
-    "main.js.map": "/hackahon-gyro/static/js/main.4d337ed4.chunk.js.map",
-    "runtime-main.js": "/hackahon-gyro/static/js/runtime-main.e1710ee4.js",
-    "runtime-main.js.map": "/hackahon-gyro/static/js/runtime-main.e1710ee4.js.map",
-    "static/js/2.6f3603cc.chunk.js": "/hackahon-gyro/static/js/2.6f3603cc.chunk.js",
-    "static/js/2.6f3603cc.chunk.js.map": "/hackahon-gyro/static/js/2.6f3603cc.chunk.js.map",
-    "index.html": "/hackahon-gyro/index.html",
-    "precache-manifest.e0a73a92551e15f12c3f981579942395.js": "/hackahon-gyro/precache-manifest.e0a73a92551e15f12c3f981579942395.js",
-    "service-worker.js": "/hackahon-gyro/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/hackahon-gyro/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.6f3603cc.chunk.js.LICENSE": "/hackahon-gyro/static/js/2.6f3603cc.chunk.js.LICENSE",
-    "static/media/logo.svg": "/hackahon-gyro/static/media/logo.5d5d9eef.svg"
+    "main.css": "/hackathon-gyro/static/css/main.d1b05096.chunk.css",
+    "main.js": "/hackathon-gyro/static/js/main.dcad932a.chunk.js",
+    "main.js.map": "/hackathon-gyro/static/js/main.dcad932a.chunk.js.map",
+    "runtime-main.js": "/hackathon-gyro/static/js/runtime-main.de7738f2.js",
+    "runtime-main.js.map": "/hackathon-gyro/static/js/runtime-main.de7738f2.js.map",
+    "static/js/2.6f3603cc.chunk.js": "/hackathon-gyro/static/js/2.6f3603cc.chunk.js",
+    "static/js/2.6f3603cc.chunk.js.map": "/hackathon-gyro/static/js/2.6f3603cc.chunk.js.map",
+    "index.html": "/hackathon-gyro/index.html",
+    "precache-manifest.003048fba4e666bb476742a639d0e47b.js": "/hackathon-gyro/precache-manifest.003048fba4e666bb476742a639d0e47b.js",
+    "service-worker.js": "/hackathon-gyro/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/hackathon-gyro/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6f3603cc.chunk.js.LICENSE": "/hackathon-gyro/static/js/2.6f3603cc.chunk.js.LICENSE",
+    "static/media/logo.svg": "/hackathon-gyro/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1710ee4.js",
+    "static/js/runtime-main.de7738f2.js",
     "static/js/2.6f3603cc.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.4d337ed4.chunk.js"
+    "static/js/main.dcad932a.chunk.js"
   ]
 }
