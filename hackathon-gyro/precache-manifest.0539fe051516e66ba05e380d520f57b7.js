@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "536471d00ba4a217cdb3676b1af8214a",
+    "revision": "529ec74b024c8d561bccea8261ec5359",
     "url": "/hackathon-gyro/index.html"
   },
   {
-    "revision": "30844613f732666e5cfa",
+    "revision": "55dacdc7299b7f250e68",
     "url": "/hackathon-gyro/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "24ffea16ade0afc421c4",
-    "url": "/hackathon-gyro/static/js/2.5849167b.chunk.js"
+    "revision": "c783becd5c0b061c14e9",
+    "url": "/hackathon-gyro/static/js/2.15a3548c.chunk.js"
   },
   {
-    "revision": "da01034c70d479d890a70d42d48c6305",
-    "url": "/hackathon-gyro/static/js/2.5849167b.chunk.js.LICENSE"
+    "revision": "6aeb469c0c20fd3334c86de961c4692c",
+    "url": "/hackathon-gyro/static/js/2.15a3548c.chunk.js.LICENSE"
   },
   {
-    "revision": "30844613f732666e5cfa",
-    "url": "/hackathon-gyro/static/js/main.e443da00.chunk.js"
+    "revision": "55dacdc7299b7f250e68",
+    "url": "/hackathon-gyro/static/js/main.e1801ac9.chunk.js"
   },
   {
     "revision": "e08733216284870b00ea",
