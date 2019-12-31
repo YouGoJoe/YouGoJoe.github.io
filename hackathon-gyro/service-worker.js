@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hackathon-gyro/precache-manifest.0539fe051516e66ba05e380d520f57b7.js"
+  "/hackathon-gyro/precache-manifest.5b8e57a7c6dd23144b08774a777a63e9.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hackathon-gyro/static/css/main.d1b05096.chunk.css",
-    "main.js": "/hackathon-gyro/static/js/main.e1801ac9.chunk.js",
-    "main.js.map": "/hackathon-gyro/static/js/main.e1801ac9.chunk.js.map",
+    "main.js": "/hackathon-gyro/static/js/main.e8297602.chunk.js",
+    "main.js.map": "/hackathon-gyro/static/js/main.e8297602.chunk.js.map",
     "runtime-main.js": "/hackathon-gyro/static/js/runtime-main.de7738f2.js",
     "runtime-main.js.map": "/hackathon-gyro/static/js/runtime-main.de7738f2.js.map",
     "static/js/2.15a3548c.chunk.js": "/hackathon-gyro/static/js/2.15a3548c.chunk.js",
     "static/js/2.15a3548c.chunk.js.map": "/hackathon-gyro/static/js/2.15a3548c.chunk.js.map",
     "index.html": "/hackathon-gyro/index.html",
-    "precache-manifest.0539fe051516e66ba05e380d520f57b7.js": "/hackathon-gyro/precache-manifest.0539fe051516e66ba05e380d520f57b7.js",
+    "precache-manifest.5b8e57a7c6dd23144b08774a777a63e9.js": "/hackathon-gyro/precache-manifest.5b8e57a7c6dd23144b08774a777a63e9.js",
     "service-worker.js": "/hackathon-gyro/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/hackathon-gyro/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.15a3548c.chunk.js.LICENSE": "/hackathon-gyro/static/js/2.15a3548c.chunk.js.LICENSE",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.de7738f2.js",
     "static/js/2.15a3548c.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.e1801ac9.chunk.js"
+    "static/js/main.e8297602.chunk.js"
   ]
 }

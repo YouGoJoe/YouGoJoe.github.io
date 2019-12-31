@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "529ec74b024c8d561bccea8261ec5359",
+    "revision": "d6ab68ed2dc8bfde0901014a78ebc5dc",
     "url": "/hackathon-gyro/index.html"
   },
   {
-    "revision": "55dacdc7299b7f250e68",
+    "revision": "3366fa6f73d3cb30b1b1",
     "url": "/hackathon-gyro/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hackathon-gyro/static/js/2.15a3548c.chunk.js.LICENSE"
   },
   {
-    "revision": "55dacdc7299b7f250e68",
-    "url": "/hackathon-gyro/static/js/main.e1801ac9.chunk.js"
+    "revision": "3366fa6f73d3cb30b1b1",
+    "url": "/hackathon-gyro/static/js/main.e8297602.chunk.js"
   },
   {
     "revision": "e08733216284870b00ea",
