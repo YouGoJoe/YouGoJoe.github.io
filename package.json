@@ -43,7 +43,7 @@
   "bugs": {
     "url": "https://github.com/YouGoJoe/YouGoJoe.github.io/issues"
   },
-  "homepage": "https://yougojoe.github.io/index.html",
+  "homepage": "https://yougojoe.github.io/public/index.html",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
